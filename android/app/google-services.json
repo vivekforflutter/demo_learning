@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322283962466",
+    "project_id": "thememode-e615d",
+    "storage_bucket": "thememode-e615d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322283962466:android:5fc72db727c678f760513b",
+        "android_client_info": {
+          "package_name": "com.example.theme_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl8feDlwcZttIStA4NUt7frSOPfCJQLIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
